@@ -113,7 +113,6 @@ After training for 1000 episodes, the agent achieves an average reward of approx
 
 Training progress is visualized as follows:
 
-![Training Progress](training_progress.png)
 
 ---
 
